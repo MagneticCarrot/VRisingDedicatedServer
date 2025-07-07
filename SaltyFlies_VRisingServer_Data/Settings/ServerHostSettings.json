@@ -1,0 +1,29 @@
+﻿{
+  "Name": "Salty Flies V Rising Server",
+  "Description": "Salty Flies server for salty people",
+  "Port": 9876,
+  "QueryPort": 9877,
+  "MaxConnectedUsers": 40,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "SaveName": "world1",
+  "Password": "saltyflies",
+  "Secure": true,
+  "ListOnSteam": true,
+  "ListOnEOS": true,
+  "AutoSaveCount": 20,
+  "AutoSaveInterval": 120,
+  "CompressSaveFiles": true,
+  "GameSettingsPreset": "",
+  "GameDifficultyPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false,
+  "API": {
+    "Enabled": false
+  },
+  "Rcon": {
+    "Enabled": false,
+    "Port": 25575,
+    "Password": ""
+  }
+}

@@ -1,0 +1,9 @@
+appcache/
+config/
+logs/
+VRisingServer_Data/
+*.dll
+*.exe
+VERSION
+*.txt
+start_server_example.bat
