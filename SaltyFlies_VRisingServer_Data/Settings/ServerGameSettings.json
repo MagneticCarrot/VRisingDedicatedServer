@@ -11,7 +11,7 @@
   "SoulShard_DurabilityLossRate": 1.0,
   "CanLootEnemyContainers": true,
   "BloodBoundEquipment": true,
-  "TeleportBoundItems": true,
+  "TeleportBoundItems": false,
   "BatBoundItems": false,
   "BatBoundShards": false,
   "AllowGlobalChat": true,
